@@ -1,0 +1,256 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Scope One', serif;
+}
+
+
+/* Master Start Here */
+
+    .master{
+        background-image: url("../Image/banner.png");
+        background-size:cover;
+        /* height:100vh; */
+        padding-bottom: 6%;
+        background-position: center top;
+    }
+
+        
+    .master h4 span{
+        color:#3498db;
+    }
+
+    .master h4{
+        color:#fff;
+        float:left;
+        margin-top:40px;
+        margin-left:25px;
+        font-weight:lighter;
+    }
+
+    .master a{
+        color:#fff;
+        float:right;
+        margin-top:40px;
+        margin-right:25px;
+        text-decoration:none;
+    }
+
+    .master a span{
+        margin-right:8px;
+    }
+
+/* Master Ends */
+
+
+
+
+/* Banner Start Here */
+
+    .banner{
+        text-align:center;
+        color:#fff;
+        padding-bottom:10%;
+        margin-top:17%;
+    }
+
+        
+    .banner h1{
+        font-size:50px;
+    }
+
+    .banner p{
+        color:#dadada;
+        font-size:23px;
+        line-height:37px;
+    }
+
+    .banner button{
+        color:#fff;
+        font-size:14px;
+        border:none;
+        width:120px;
+        height:40px;
+        font-weight:bold;
+        margin-top:2%;
+        background-color:#3498db;
+        font-family: 'Scope One', serif;
+    }
+
+/* Banner Ends */
+
+
+
+
+
+/* Second Section Start Here */
+
+    .second-section{
+        margin-top:7%;
+    }
+
+    .right h2{
+        font-size:23px;
+        font-weight:bold;
+    }
+
+    .right p{
+        padding-top:3%;
+        color:#949494;
+        font-size:15px;
+    }
+        
+    .left img{
+        width:100%;
+    }
+
+
+    .right button{
+        color:#fff;
+        font-size:14px;
+        border:none;
+        width:120px;
+        height:40px;
+        font-weight:bold;
+        margin-top:2%;
+        background-color:#3498db;
+        font-family: 'Scope One', serif;
+    }
+
+/* Second Section Start Here */
+
+
+/* Third Section Start Here */
+
+    .third-section{
+        padding-bottom:70px;
+        margin-top:7%;
+        background-color: #3498db;
+    }
+
+    .box1{
+        color:#fff;
+        padding-top:6%;
+        font-size:23px;
+    } 
+
+    .box1 p{
+        color:gainsboro;
+        font-size:15px;
+        padding-top:3%;
+        font-weight:lighter;
+    }
+    .box1 h2{
+        color:#fff;
+        font-size:23px;
+        font-weight:bold;
+    } 
+
+    .box1 button{
+        color:#3498db;
+        font-size:14px;
+        border:none;
+        width:120px;
+        height:40px;
+        font-weight:bold;
+        margin-top:2%;
+        background-color:#fff;
+        font-family: 'Scope One', serif;
+    }
+
+    .box2{
+        padding-top:6%;   
+    }   
+    .box2 img{
+        width:100%;
+    }
+
+/* Third Section Ends */
+
+
+/* Fourth Section Start Here */
+
+.big-Fourth-section{
+    padding-bottom:5%;
+    background-color:#fafafa;
+}
+
+
+.Fourth-section h1{
+    padding-top:4%;
+    text-align:center;
+    font-weight:bold;
+    font-size:30px;
+}
+
+
+.Fourth-section p{
+    color: #DADADA;
+    font-size:17px;
+    line-height:30px;
+    
+    text-align:center;
+}
+
+.box{
+    margin-top:3%;
+    text-align:center;
+}
+
+.box p{
+    font-size:14px;
+    color:#B2BEB5;
+    font-weight:bold;
+    padding-top:20px;
+    line-height:25px;
+
+}
+
+.box button{
+    color:#fff;
+    font-size:14px;
+    border:none;
+    width:120px;
+    height:40px;
+    font-weight:bold;
+    margin-top:2%;
+    background-color:#3498db;
+    font-family: 'Scope One', serif;
+}
+
+.box img{
+    width:80%;
+}
+   
+/* Fourth Section Ends */
+
+
+/* Footer Start Here */
+
+.footer{
+    margin-top:6%;
+    text-align:center;
+}
+.footer .fa{
+    color:gray;
+    font-size:30px;
+    padding:12px;
+    margin-right:30px;
+    border-radius:100%;
+    border:1px double #e7e6e6;
+}
+
+
+.footer p{
+    color:#DADADA;
+    padding-top:20px;
+    font-size:15px;
+    font-weight:bold;
+}
+
+.footer p span{
+    color:#A9A9A9;
+    font-size:15px;
+}
+
+/* Footer Ends */
